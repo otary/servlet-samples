@@ -4,6 +4,10 @@
 
 $ mvn tomcat7:run
 
+或
+
+$ mvn jetty:run
+
 ## servlet-jsp-sample
 
 > 访问地址
